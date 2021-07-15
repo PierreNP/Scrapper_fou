@@ -1,6 +1,0 @@
-gem 'open-uri'
-gem 'nokogiri' 
-gem 'pry'
-gem 'rspec'
-ruby '2.7.1'
-source 'https://rubygems.org'
